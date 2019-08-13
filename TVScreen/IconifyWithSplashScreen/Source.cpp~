@@ -1,0 +1,14 @@
+#include<Windows.h>
+
+LRESULT CALLBACK WndProc(HWND,UINT,WPARAM,LPARAM);
+
+int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpszCmdLine, int iCmdShow) {
+
+	WNDCLASSEX wndclass;
+	HWND hwnd;
+	MSG msg;
+	TCHAR szAppName[] = TEXT("IconSplashApp");
+
+	wndclass.cbClsExtra = 0;
+	wndclass.cbSize = sizeof(WNDCLASSEX);
+}
