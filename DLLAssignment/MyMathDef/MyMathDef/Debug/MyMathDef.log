@@ -1,0 +1,4 @@
+﻿  MyMath.cpp
+c:\users\gores\source\repos\mymathdef\mymathdef\mymath.cpp(3): warning C4007: 'DllMain': must be '__stdcall'
+     Creating library C:\Users\gores\Source\Repos\MyMathDef\Debug\MyMathDef.lib and object C:\Users\gores\Source\Repos\MyMathDef\Debug\MyMathDef.exp
+  MyMathDef.vcxproj -> C:\Users\gores\Source\Repos\MyMathDef\Debug\MyMathDef.dll
