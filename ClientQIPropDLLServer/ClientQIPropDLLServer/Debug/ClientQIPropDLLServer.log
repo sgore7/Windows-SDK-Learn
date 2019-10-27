@@ -1,0 +1,3 @@
+﻿  ClientQIPropDLLServer.cpp
+c:\users\gs-1436\source\repos\clientqipropdllserver\clientqipropdllserver\clientqipropdllserver.cpp(209): warning C4715: 'CheckPredictability': not all control paths return a value
+  ClientQIPropDLLServer.vcxproj -> C:\Users\GS-1436\source\repos\ClientQIPropDLLServer\Debug\ClientQIPropDLLServer.exe

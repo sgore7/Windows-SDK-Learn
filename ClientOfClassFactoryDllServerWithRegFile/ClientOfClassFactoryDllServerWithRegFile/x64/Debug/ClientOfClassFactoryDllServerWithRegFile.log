@@ -1,0 +1,4 @@
+﻿  ClientOfClassFactoryDllServerWithRegFile.cpp
+c:\users\gs-1436\source\repos\clientofclassfactorydllserverwithregfile\clientofclassfactorydllserverwithregfile\clientofclassfactorydllserverwithregfile.cpp(1): warning C4005: 'UNICODE': macro redefinition
+  c:\users\gs-1436\source\repos\clientofclassfactorydllserverwithregfile\clientofclassfactorydllserverwithregfile\clientofclassfactorydllserverwithregfile.cpp: note: see previous definition of 'UNICODE'
+  ClientOfClassFactoryDllServerWithRegFile.vcxproj -> C:\Users\GS-1436\source\repos\ClientOfClassFactoryDllServerWithRegFile\x64\Debug\ClientOfClassFactoryDllServerWithRegFile.exe
