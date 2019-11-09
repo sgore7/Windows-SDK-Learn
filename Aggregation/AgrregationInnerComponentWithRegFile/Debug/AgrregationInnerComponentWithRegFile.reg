@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[-HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{F14D941D-E6C5-4E6D-B26E-179D629A02E9}]
+@="AgrregationInnerComponentWithRegFileDll"
+[-HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{F14D941D-E6C5-4E6D-B26E-179D629A02E9}\InprocServer32]
+@="C:\\Users\\GS-1436\\source\\repos\\AgrregationInnerComponentWithRegFile\\Debug\\AgrregationInnerComponentWithRegFile.dll"

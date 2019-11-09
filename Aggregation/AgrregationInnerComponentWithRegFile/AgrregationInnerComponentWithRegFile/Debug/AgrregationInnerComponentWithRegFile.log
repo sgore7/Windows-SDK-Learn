@@ -1,0 +1,4 @@
+﻿  AggregationInnerComponentWithRegFile.cpp
+     Creating library C:\Users\GS-1436\source\repos\AgrregationInnerComponentWithRegFile\Debug\AgrregationInnerComponentWithRegFile.lib and object C:\Users\GS-1436\source\repos\AgrregationInnerComponentWithRegFile\Debug\AgrregationInnerComponentWithRegFile.exp
+AgrregationInnerComponentWithRegFile.exp : warning LNK4070: /OUT:AggregationInnerComponentWithRegFile.dll directive in .EXP differs from output filename 'C:\Users\GS-1436\source\repos\AgrregationInnerComponentWithRegFile\Debug\AgrregationInnerComponentWithRegFile.dll'; ignoring directive
+  AgrregationInnerComponentWithRegFile.vcxproj -> C:\Users\GS-1436\source\repos\AgrregationInnerComponentWithRegFile\Debug\AgrregationInnerComponentWithRegFile.dll
