@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[-HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{DAAE0472-6207-4E87-A9EE-84F4C80C4C54}]
+@="ContainmentOuterComponentWithDefFileDll"
+[-HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{DAAE0472-6207-4E87-A9EE-84F4C80C4C54}\InprocServer32]
+@="C:\\Users\\GS-1436\\source\\repos\\ContainmentOuterComponentWithRegFile\\Debug\\ContainmentOuterComponentWithRegFile.dll"

@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[-HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{FB8827BF-AF11-4891-867B-EB7AF33DE45A}]
+@="ContainmentInnerComponentWithDefFileDll"
+[-HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{FB8827BF-AF11-4891-867B-EB7AF33DE45A}\InprocServer32]
+@="C:\\Users\\GS-1436\\source\\repos\\ContainmentInnerComponentWithRegFile\\Debug\\ContainmentInnerComponentWithRegFile.dll"
